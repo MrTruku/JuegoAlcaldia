@@ -1,0 +1,16 @@
+{
+"companyName": "MrTrukuTecnology",
+"productName": "FlappyPeace",
+"productVersion": "1.0",
+"dataUrl": "FlappyPeace.data.unityweb",
+"wasmCodeUrl": "FlappyPeace.wasm.code.unityweb",
+"wasmFrameworkUrl": "FlappyPeace.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
